@@ -1,2 +1,2 @@
 # MyAssignments
-Day1 Assignments.
+Day1  &2 Assignments.
